@@ -6,6 +6,7 @@
       <list>
         <option value="$PROJECT_DIR$/HelloWorld/pom.xml" />
         <option value="$PROJECT_DIR$/HelloWorldMaven/pom.xml" />
+        <option value="$PROJECT_DIR$/Collections/pom.xml" />
       </list>
     </option>
     <option name="ignoredFiles">
