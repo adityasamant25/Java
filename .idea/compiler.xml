@@ -8,6 +8,7 @@
         <outputRelativeToContentRoot value="true" />
         <module name="Collections" />
         <module name="HelloWorldMaven" />
+        <module name="Equality" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
