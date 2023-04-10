@@ -9,6 +9,7 @@
         <module name="Collections" />
         <module name="Generics" />
         <module name="HelloWorldMaven" />
+        <module name="Equality" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
