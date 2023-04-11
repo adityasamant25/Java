@@ -10,6 +10,7 @@
         <module name="Equality" />
         <module name="Collections" />
         <module name="Lambda" />
+        <module name="Generics" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
