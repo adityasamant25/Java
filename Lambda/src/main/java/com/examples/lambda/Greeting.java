@@ -1,5 +1,6 @@
 package com.examples.lambda;
 
+@FunctionalInterface
 public interface Greeting {
-    public void perform();
+    void perform();
 }
