@@ -9,6 +9,7 @@
         <module name="HelloWorldMaven" />
         <module name="Equality" />
         <module name="Collections" />
+        <module name="Optional" />
         <module name="Lambda" />
         <module name="Generics" />
       </profile>
